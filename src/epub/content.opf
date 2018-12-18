@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-12-18T02:14:41Z</dc:date>
+		<meta property="dcterms:modified">2018-12-18T02:14:41Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,8 +48,8 @@
 		<dc:description id="description">The tale of Rudolph Rassendyll, near twin of King Rudolph V of Ruritania, who, in order to save the day, must take the king’s place after he is drugged and abducted.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1894, &lt;i&gt;The Prisoner of Zenda, being the history of three months in the life of an English gentleman&lt;/i&gt; by Anthony Hope is an adventure novel that takes place in the fictional Kingdom of Ruritania.&lt;/p&gt;
-			&lt;p&gt;The &lt;i&gt;Prisoner of Zenda&lt;/i&gt; tells the story of Rudolph Rassendyll, who is, because of past indiscretions in the family and unbeknownst to him, the near twin of King Rudolph V of Ruritania. Labeled a ne’re-do-well by his sister-in-law, young Rudolph determines to escape his family and secretly travel to Ruritania for the coronation of his distant relative. But when the king is drugged and abducted on the eve of this ceremony, young Rassendyll is convinced to take his place to try and save the day.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Prisoner of Zenda&lt;/i&gt; by Anthony Hope is an adventure novel first published in 1894 that takes place in the fictional Kingdom of Ruritania.&lt;/p&gt;
+			&lt;p&gt;It tells the story of Rudolph Rassendyll, who is, because of past indiscretions in the family and unbeknownst to him, the near twin of King Rudolph V of Ruritania. Labeled a ne’re-do-well by his sister-in-law, young Rudolph determines to escape his family and secretly travel to Ruritania for the coronation of his distant relative. But when the king is drugged and abducted on the eve of this ceremony, young Rassendyll is convinced to take his place to try and save the day.&lt;/p&gt;
 			&lt;p&gt;But things don’t go as planned as the conspirators fail to reckon with the king’s brother, the dastardly Duke of Strelsau or his fiance, the beautiful Princess Flavia. What follows is a tale of bravery, sacrifice and love, filled with romance and feats of derring-do that still stands the test of time.&lt;/p&gt;&lt;p&gt;
 			&lt;i&gt;The Prisoner of Zenda&lt;/i&gt; was Hope’s most famous novel and achieved instant success. Such was the impact of this novel that the setting of Ruritania became famous in its own right as the generic term referring to romantic stories set in fictional central European countries. It went on to spawn numerous adaptations, retellings and homages. Anthony Hope wrote a sequel in 1898 called &lt;i&gt;Rupert of Hentzau&lt;/i&gt; but it never achieved the success of the original.&lt;/p&gt;
 			</meta>
@@ -57,8 +57,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/95</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009775589</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">54800</meta>
+		<meta property="se:reading-ease.flesch">81.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Prisoner_of_Zenda</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-hope_the-prisoner-of-zenda</meta>
 		<dc:creator id="author">Anthony Hope</dc:creator>
@@ -78,8 +78,8 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">B Timothy Keith</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Keith, B Timothy</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
@@ -87,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
