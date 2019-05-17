@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Prisoner of Zenda</dc:title>
 		<meta property="file-as" refines="#title">Prisoner of Zenda, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -39,20 +39,21 @@
 		<dc:subject id="subject-1">Impostors and imposture -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<dc:subject id="subject-3">British -- Foreign countries -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/95</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/95</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/95</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008104231</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85001072</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007101992</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The tale of Rudolph Rassendyll, near twin of King Rudolph V of Ruritania, who, in order to save the day, must take the king’s place after he is drugged and abducted.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Prisoner of Zenda&lt;/i&gt; by Anthony Hope is an adventure novel first published in 1894 that takes place in the fictional Kingdom of Ruritania.&lt;/p&gt;
 			&lt;p&gt;It tells the story of Rudolph Rassendyll, who is, because of past indiscretions in the family and unbeknownst to him, the near twin of King Rudolph V of Ruritania. Labeled a ne’er-do-well by his sister-in-law, young Rudolph determines to escape his family and secretly travel to Ruritania for the coronation of his distant relative. But when the king is drugged and abducted on the eve of this ceremony, young Rassendyll is convinced to take his place to try and save the day.&lt;/p&gt;
 			&lt;p&gt;But things don’t go as planned as the conspirators fail to reckon with the king’s brother, the dastardly Duke of Strelsau or his fiance, the beautiful Princess Flavia. What follows is a tale of bravery, sacrifice and love, filled with romance and feats of derring-do that still stands the test of time.&lt;/p&gt;&lt;p&gt;
 			&lt;i&gt;The Prisoner of Zenda&lt;/i&gt; was Hope’s most famous novel and achieved instant success. Such was the impact of this novel that the setting of Ruritania became famous in its own right as the generic term referring to romantic stories set in fictional central European countries. It went on to spawn numerous adaptations, retellings and homages. Anthony Hope wrote a sequel in 1898 called &lt;i&gt;Rupert of Hentzau&lt;/i&gt; but it never achieved the success of the original.&lt;/p&gt;
 			</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/95</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009775589</dc:source>
