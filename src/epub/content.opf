@@ -59,7 +59,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/95</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009775589</dc:source>
-		<meta property="se:word-count">54799</meta>
+		<meta property="se:word-count">54801</meta>
 		<meta property="se:reading-ease.flesch">81.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Prisoner_of_Zenda</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-hope_the-prisoner-of-zenda</meta>
