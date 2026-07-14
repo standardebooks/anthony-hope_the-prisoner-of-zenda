@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Prisoner of Zenda: Being the History of Three Months in the Life of an English Gentleman</dc:title>
 		<meta property="file-as" refines="#fulltitle">Prisoner of Zenda, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Impostors and imposture -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<dc:subject id="subject-3">British -- Foreign countries -- Fiction</dc:subject>
