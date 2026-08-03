@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda</dc:identifier>
 		<dc:date>2018-12-18T02:14:41Z</dc:date>
@@ -51,13 +51,13 @@
 		<meta id="collection-1" property="belongs-to-collection">Ruritania Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Prisoner of Zenda&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/anthony-hope"&gt;Anthony Hope&lt;/a&gt; is an adventure novel first published in 1894 that takes place in the fictional Kingdom of Ruritania.&lt;/p&gt;
 			&lt;p&gt;It tells the story of Rudolph Rassendyll, who is, because of past indiscretions in the family and unbeknownst to him, the near twin of King Rudolph V of Ruritania. Labeled a ne’er-do-well by his sister-in-law, young Rudolph determines to escape his family and secretly travel to Ruritania for the coronation of his distant relative. But when the king is drugged and abducted on the eve of this ceremony, young Rassendyll is convinced to take his place to try and save the day.&lt;/p&gt;
 			&lt;p&gt;But things don’t go as planned as the conspirators fail to reckon with the king’s brother, the dastardly Duke of Strelsau, or his fiancée, the beautiful Princess Flavia. What follows is a tale of bravery, sacrifice and love, filled with romance and feats of derring-do that still stands the test of time.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Prisoner of Zenda&lt;/i&gt; was Hope’s most famous novel and achieved instant success. Such was the impact of this novel that the setting of Ruritania became famous in its own right as the generic term referring to romantic stories set in fictional central European countries. It went on to spawn numerous adaptations, retellings and homages. Anthony Hope wrote a sequel in 1898 called &lt;i&gt;Rupert of Hentzau&lt;/i&gt; but it never achieved the success of the original.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/95</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009775589</dc:source>
