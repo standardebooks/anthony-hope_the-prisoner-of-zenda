@@ -51,7 +51,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Ruritania Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.</dc:abstract>
+		<meta property="schema:abstract">King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Prisoner of Zenda&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/anthony-hope"&gt;Anthony Hope&lt;/a&gt; is an adventure novel first published in 1894 that takes place in the fictional Kingdom of Ruritania.&lt;/p&gt;
 			&lt;p&gt;It tells the story of Rudolph Rassendyll, who is, because of past indiscretions in the family and unbeknownst to him, the near twin of King Rudolph V of Ruritania. Labeled a ne’er-do-well by his sister-in-law, young Rudolph determines to escape his family and secretly travel to Ruritania for the coronation of his distant relative. But when the king is drugged and abducted on the eve of this ceremony, young Rassendyll is convinced to take his place to try and save the day.&lt;/p&gt;
